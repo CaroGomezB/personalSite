@@ -751,6 +751,10 @@ body {
             height: fit-content;
         }
 
+        .section4 {
+            padding-top: 5vh;
+        }
+
         .grid-container img {
             height: 40px;
         }
